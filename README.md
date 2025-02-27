@@ -7,3 +7,7 @@ Fully automated system to streamline data management and reporting. This project
 <a href="https://youtu.be/gph1ZMvGwF0">Google Sheets overview video</a><br>
 <a href="https://lookerstudio.google.com/reporting/3fd4d966-a646-498e-bb24-512ef0275adf">Looker Studio report</a>
 
+# Стоматологическая клиника
+Учет услуг для стоматологической клиники.
+
+Полностью автоматизированная система для оптимизации управления данными и отчетности. В этом проекте реализованы динамические расчеты, интерактивные панели и эффективная работа с данными.
